@@ -1,0 +1,11 @@
+D:\AnimalWorld\AnimalWorld\bin\Debug\netcoreapp2.0\AnimalWorld.deps.json
+D:\AnimalWorld\AnimalWorld\bin\Debug\netcoreapp2.0\AnimalWorld.runtimeconfig.json
+D:\AnimalWorld\AnimalWorld\bin\Debug\netcoreapp2.0\AnimalWorld.runtimeconfig.dev.json
+D:\AnimalWorld\AnimalWorld\bin\Debug\netcoreapp2.0\AnimalWorld.dll
+D:\AnimalWorld\AnimalWorld\bin\Debug\netcoreapp2.0\AnimalWorld.pdb
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.csprojAssemblyReference.cache
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.csproj.CoreCompileInputs.cache
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.AssemblyInfoInputs.cache
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.AssemblyInfo.cs
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.dll
+D:\AnimalWorld\AnimalWorld\obj\Debug\netcoreapp2.0\AnimalWorld.pdb
